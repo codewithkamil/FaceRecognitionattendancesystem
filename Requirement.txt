@@ -14,5 +14,10 @@ numpy
 pillow
 tkinter-tooltip
 
-Mail if There is Any Related Problem
+Check another setting:
+path
+database connection
+.sql file
+
+Mail if there is any project-related problem
 themominsdevelopers@gmail.com
