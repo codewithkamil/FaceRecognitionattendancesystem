@@ -1,0 +1,16 @@
+To run this project, you'll need an XAMPP control panel, a webcam, and the required Python library installed. Let me know if you need any help.
+--> Software & Hardware & Library Requirement
+Software:
+Xampp Control Panel 
+Microsoft Excel
+
+Hardware:
+Webcam or built-in camera or mobile camera
+
+Python Library:  
+mysql.connector
+cv2
+numpy
+pillow
+tkinter-tooltip
+
