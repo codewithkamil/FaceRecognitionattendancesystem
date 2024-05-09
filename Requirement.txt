@@ -14,3 +14,5 @@ numpy
 pillow
 tkinter-tooltip
 
+Mail if There is Any Related Problem
+themominsdevelopers@gmail.com
